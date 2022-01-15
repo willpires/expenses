@@ -1,6 +1,6 @@
 
-
 class Transaction {
+
   final String id;
   final String title;
   final double value;
